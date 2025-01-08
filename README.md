@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">:star:I'm Passionate Full-Stack Engineer, Code smart, Dream big:star:</h3>
-
+<br>
 <div style="text-align: left; margin-left: auto; margin-right: auto; max-width: 700px;">
   🚀 I'm Passionate Full-Stack Engineer.<br>
   💡 .<br>
