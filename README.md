@@ -8,12 +8,16 @@
 <h2 align="center">About Me</h3>
 
 <div align="center">
+  <p>🎯 <strong>Goal</strong>: Full-Stack Engineer</p>
   <p>💼 <strong>Work</strong>: Associate Software Engineer</p>
   <p>🌍 <strong>Want to</strong>: Solve global challenges with code</p>
   <p>📚 <strong>Off-hours</strong>: Reading, Training, Immersive English (2nd language)</p>
-  <p>📩[![Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)</p>
+  <p>📩 <strong>Contact</strong>: 
+    <a href="https://twitter.com/hirokishimizu39">
+      <img src="https://img.shields.io/twitter/follow/hirokishimizu39?style=social" alt="Twitter Follow" />
+    </a>
+  </p>
 </div>
-
 
 <h2 align="center">🛠️Languages & tools</h2>
 
