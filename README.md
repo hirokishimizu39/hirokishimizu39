@@ -6,48 +6,35 @@
   </a>
 </h1>
 
-<h3 align="center">✨ Passionate Full-Stack Engineer | Solving global problems through technology ✨</h3>
-
----
-
 ### About Me
+---
+<h3>:star:Passionate Full-Stack Engineer, Code smart, Dream big:star:</h3>
+- 🚀 **Work**:  
+  I'm working as an Associate Software Engineer.
 
-<table>
-<tr>
-<td>💼 <b>Work</b></td>
-<td>Associate Software Engineer</td>
-</tr>
-<tr>
-<td>📖 <b>Learning</b></td>
-<td>Computer Science, Full-Stack Development</td>
-</tr>
-<tr>
-<td>🌍 <b>Aspiration</b></td>
-<td>Solving global challenges with creativity and code</td>
-</tr>
-<tr>
-<td>🕒 <b>Off-Hours</b></td>
-<td>Reading, Training, Immersive English</td>
-</tr>
-<tr>
-<td>🫀 <b>Belief</b></td>
-<td>Everyone has untapped potential</td>
-</tr>
-<tr>
-<td>❤️ <b>Fun Fact</b></td>
-<td>I have a lovely girlfriend 👧</td>
-</tr>
-<td>📫 <b>Contact</b></td>
-<td>
-  <a href="https://twitter.com/hirokishimizu39">
-    <img src="https://img.shields.io/twitter/follow/hirokishimizu39?style=social" alt="Twitter Follow">
-  </a>
-</td>
-</table>
+- 💡 **Learning**:  
+  I'm studying Computer Science.
+
+- 🌍 **Want to**:  
+  I would like to solve global problems through code and creativity.
+
+- 📚 **Off-hours**:  
+  - Reading  
+  - Training  
+  - Immersive English (as my 2nd language)
+
+- 🫀 **Belief**:  
+  We all have potential, respectively.
+
+- 👪 **Family**:  
+  I have a cute girlfriend. 👧
+
+- 📩 **Contact**:  
+  [![Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)
 
 ---
 
-<h2 align="center">:hammer_and_wrench: Languages & Tools</h2>
+<h3 align="center">:hammer_and_wrench: Languages & Tools</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -64,7 +51,7 @@
 
 ---
 
-<h2 align="center">:bar_chart: GitHub Stats</h2>
+<h3 align="center">:bar_chart: GitHub Stats</h3>
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=hirokishimizu39&show_icons=true&theme=tokyonight&hide_border=true">
