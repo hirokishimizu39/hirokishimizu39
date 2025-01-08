@@ -7,7 +7,6 @@
 <br>
 
 <h2 align="center">:star:About Me:star:</h3>
-
 <div align="center">
   <p>🎯 <strong>Goal</strong>: Full-Stack Engineer</p>
   <p>💼 <strong>Work</strong>: Associate Software Engineer</p>
@@ -23,39 +22,31 @@
 <br>
 
 <h2 align="center">🛠️Languages & tools</h2>
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rails,ruby,py,django,php,html,css,postgres,linux,docker,git,vscode,vim" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rails,ruby,py,django,php,html,css,mysql,postgres,linux,docker,git,vscode" />
   </a>
 </p>
 
-<h2 align="center">:star:Want</h3>
-
+<h2 align="center">:star:Want</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,terraform,aws,gcp" />
+    <img src="https://skillicons.dev/icons?i=go,terraform,aws,gcp,vim" />
   </a>
 </p>
 
+<br>
 
 <h2 align="center">:pencil:Activities</h2>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirokishimizu39&bg_color=000000&color=ffffff&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&custom_title=hirokishimizu39's%20Contribution%20Graph&title_color=36BCF7" alt="hirokishimizu39's github activity graph" />
-</a>
-
-
 <div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirokishimizu39&bg_color=000000&color=ffffff&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&custom_title=hirokishimizu39's%20Contribution%20Graph&title_color=36BCF7" alt="hirokishimizu39's github activity graph" />
+  </a>
   <div style="display: flex;" >
     <img src="https://github-readme-stats.vercel.app/api?username=hirokishimizu39&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7&card_width=320" />
     <img src="https://streak-stats.demolab.com/?user=DenverCoder1&background=1a1b27&border=ffffff&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=36BCF7&dates=ffffff&excludeDaysLabel=ffffff&card_height=195&card_width=400" />
   </div>
 </div>
-
-</div>
-
-
 
 <div align="center" >
   <a href="https://github.com/hirokishimizu39/github-readme-stats">
