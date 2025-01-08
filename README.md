@@ -44,12 +44,11 @@
   </a>
   <div style="display: flex;" >
     <img src="https://github-readme-stats.vercel.app/api?username=hirokishimizu39&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7&card_width=320" />
-    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&background=1a1b27&border=ffffff&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7&currStreakLabel=36BCF7&sideNums=36BCF7&sideLabels=36BCF7&dates=ffffff&excludeDaysLabel=ffffff&card_height=195&card_width=400" />
   </div>
 </div>
 
 <div align="center" >
   <a href="https://github.com/hirokishimizu39/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirokishimizu39&layout=normal&theme=tokyonight&bg_color=000000&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7&hide_border=true&card_width=400&langs_count=6" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirokishimizu39&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
