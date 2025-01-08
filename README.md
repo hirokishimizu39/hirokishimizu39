@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 </h1>
 
 
-<h3 align="center">:star:Passionate full-stack engineer: Code smart, We can do it !:star:</h3>
+<h3 align="center">:star:Passionate full-stack engineer: We can do it !</h3>
 
 <div align="center">
 
-🚀 Passionate full-stack engineer: Crafting elegant solutions across the digital spectrum.
+🚀 Passionate full-stack engineer & coach project success by team.
 
 💡 Front-end wizard with full-stack aspirations, turning complex challenges into user-friendly experiences.
 
