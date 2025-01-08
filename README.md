@@ -1,28 +1,13 @@
 ## Hi there 👋
-
 <!--
 **hirokishimizu39/hirokishimizu39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&center=true&vCenter=true&width=700&height=100&lines=This+is+Hiroki from 🇯🇵.;+Hello+there+%F0%9F%91%8B;" alt="Typing SVG" />
   </a>
 </h1>
-
-
-<h3 align="center">:star:Passionate Full-Stack Engineer, Code smart, Dream big:star:</h3>
-
+<h3>:star:Passionate Full-Stack Engineer, Code smart, Dream big:star:</h3>
+<div>
   - 🚀 Work     : I'm working as an Associate Software Engineer.<br>
   - 💡 Leaning  : I'm learning CS, <br>
   - 🌍 Want to  : I wolud like to solving global problems through code and creativity.<br>
@@ -30,6 +15,8 @@ Here are some ideas to get you started:
   - 🫀 Belief   : We all have a potential respectively.<br>
   - 👪 Family   : I have a girl cutie girl freind👧.<br>
   - 📩 Contact  : ![[Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)
+</div>
+  
 
 
 
