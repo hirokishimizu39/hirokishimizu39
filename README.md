@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 
 <h3 align="center">:star:Passionate Full-Stack Engineer, Code smart, Dream big:star:</h3>
 
-  🚀 Work     : I'm working as an Associate Software Engineer.<br>
-  💡 Leaning  : I'm learning CS, <br>
-  🌍 Want to  : I wolud like to solving global problems through code and creativity.<br>
-  📚 Off-hours: Reading📚, Training💪, Immerse English🔤(as my 2nd language.)<br>
-  🫀 Belief   : We all have a potential respectively.<br>
-  👪 Family   : I have a girl freind👧.<br>
-  📩 Contact  : ![[Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)
+  - 🚀 Work     : I'm working as an Associate Software Engineer.<br>
+  - 💡 Leaning  : I'm learning CS, <br>
+  - 🌍 Want to  : I wolud like to solving global problems through code and creativity.<br>
+  - 📚 Off-hours: Reading, Training, Immersive English(as my 2nd language.)<br>
+  - 🫀 Belief   : We all have a potential respectively.<br>
+  - 👪 Family   : I have a girl cutie girl freind👧.<br>
+  - 📩 Contact  : ![[Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)
 
 
 
