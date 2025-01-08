@@ -5,7 +5,7 @@
 </h1>
 
 
-<h2 align="center">:star:About Me</h3>
+<h2 align="center">:star:About Me:star:</h3>
 
 <div align="center">
   <p>🎯 <strong>Goal</strong>: Full-Stack Engineer</p>
