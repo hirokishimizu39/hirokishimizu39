@@ -29,8 +29,8 @@ Here are some ideas to get you started:
   🌍 Want to  : I wolud like to solving global problems through code and creativity.<br>
   📚 Off-hours: Reading📚, Training💪, Immerse English🔤(as my 2nd language.)<br>
   🫀 Belief   : We all have a potential respectively.<br>
-  👪 Family   : I have a girl freind👧.
-  📩 Contact  : [![Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)
+  👪 Family   : I have a girl freind👧.<br>
+  📩 Contact  : [Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)
 </div>
 
 
