@@ -2,19 +2,16 @@
 
 <div>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&vCenter=true&width=700&height=50&lines=This+is+Hiroki+from+🇯🇵;Hello+there+%F0%9F%91%8B" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&vCenter=true&width=700&height=50&lines=This+is+Hiroki;Hello+there+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </div>
-
+---
 <div>
-  <h3>About Me</h3>
-  <p>🎯 <strong>Goal</strong>: Passionate Full-Stack Engineer</p>
+  <h2>About Me</h2>
   <p>💼 <strong>Work</strong>: Associate Software Engineer</p>
-  <p>💡 <strong>Learning</strong>: Computer Science</p>
   <p>🌍 <strong>Want to</strong>: Solve global challenges with code</p>
   <p>📚 <strong>Off-hours</strong>: Reading, Training, Immersive English (2nd language)</p>
-  <p>🫀 <strong>Belief</strong>: We all have untapped potential</p>
-  <p>👪 <strong>Family</strong>: A lovely girlfriend 👧</p>
+  <p>👪 <strong>Fan fuct</strong>: I have a lovely girlfriend 👧</p>
   <p>📩 <strong>Contact</strong>: 
     <a href="https://twitter.com/hirokishimizu39">
       <img src="https://img.shields.io/twitter/follow/hirokishimizu39?style=social" alt="Twitter Follow" />
