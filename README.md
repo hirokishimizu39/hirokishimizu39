@@ -7,29 +7,14 @@
 </h1>
 
 ### About Me
----
-<h3>:star:Passionate Full-Stack Engineer, Code smart, Dream big:star:</h3>
-- 🚀 **Work**:  
-  I'm working as an Associate Software Engineer.
-
-- 💡 **Learning**:  
-  I'm studying Computer Science.
-
-- 🌍 **Want to**:  
-  I would like to solve global problems through code and creativity.
-
-- 📚 **Off-hours**:  
-  - Reading  
-  - Training  
-  - Immersive English (as my 2nd language)
-
-- 🫀 **Belief**:  
-  We all have potential, respectively.
-
-- 👪 **Family**:  
-  I have a cute girlfriend. 👧
-
-- 📩 **Contact**:  
+🎯 Goal: Passionate Full-Stack Engineer
+💼 Work: Associate Software Engineer
+💡 Learning: Computer Science
+🌍 Want to: solve global challenging problems with code.
+📚 Off-hours: Reading, Training, Immersive English (2nd language)
+🫀 Belief: We all have untapped potential.
+👪 Family: A lovely girlfriend 👧
+📩 Contact:
   [![Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)
 
 ---
@@ -42,7 +27,7 @@
   </a>
 </p>
 
-<h3 align="center">🌱 Learning Goals</h3>
+<h3 align="center">🌱 Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,terraform,aws,gcp,graphql" />
