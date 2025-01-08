@@ -4,6 +4,7 @@
   </a>
 </h1>
 
+<br>
 
 <h2 align="center">:star:About Me:star:</h3>
 
@@ -18,8 +19,9 @@
     </a>
   </p>
 </div>
+
 <br>
-<br>
+
 <h2 align="center">🛠️Languages & tools</h2>
 
 <p align="center">
