@@ -18,7 +18,8 @@
     </a>
   </p>
 </div>
-
+<br>
+<br>
 <h2 align="center">🛠️Languages & tools</h2>
 
 <p align="center">
@@ -27,7 +28,7 @@
   </a>
 </p>
 
-<h3 align="center">:star:Want</h3>
+<h2 align="center">:star:Want</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
