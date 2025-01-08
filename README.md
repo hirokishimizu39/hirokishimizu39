@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </h1>
 
 
-<h3 align="center">:star:Passionate full-stack engineer: Code smart, dream big.:star:</h3>
+<h3 align="center">:star:Passionate full-stack engineer: Code smart, We can do it !.:star:</h3>
 
 <div align="center">
 
