@@ -11,13 +11,7 @@
   <p>💼 <strong>Work</strong>: Associate Software Engineer</p>
   <p>🌍 <strong>Want to</strong>: Solve global challenges with code</p>
   <p>📚 <strong>Off-hours</strong>: Reading, Training, Immersive English (2nd language)</p>
-</div>
-
-<div align="center">
-  Contact me 
-  <br />
-  
-  [![Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)
+  <p>📩[![Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)</p>
 </div>
 
 
