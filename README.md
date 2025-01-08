@@ -5,7 +5,9 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=800&vCenter=true&width=700&height=50&lines=This+is+Hiroki;Hello+there+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </div>
+
 ---
+
 <div>
   <h2>About Me</h2>
   <p>💼 <strong>Work</strong>: Associate Software Engineer</p>
@@ -24,7 +26,7 @@
 <div>
   <h2>Languages & Tools</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rails,ruby,py,php,html,css,postgres,mysql,linux,bash,docker,git,vscode,vim" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rails,ruby,py,php,html,css,postgres,mysql,linux,docker,git,vscode" alt="Languages and Tools" />
   </a>
 </div>
 
