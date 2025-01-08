@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 <h3 align="center">:star:Passionate Full-Stack Engineer, Code smart, Dream big:star:</h3>
 <br>
 <div style="text-align: center; margin-left: auto; margin-right: auto; max-width: 700px;">
-  🚀 Work: I'm working as an Associate Software Engineer.<br>
-  💡 Leaning: I'm learning CS, <br>
-  🌍 Want to: I wolud like to solving global problems through code and creativity.<br>
+  🚀 Work     : I'm working as an Associate Software Engineer.<br>
+  💡 Leaning  : I'm learning CS, <br>
+  🌍 Want to  : I wolud like to solving global problems through code and creativity.<br>
   📚 Off-hours: Reading📚, Training💪, Immerse English🔤(as my 2nd language.)<br>
-  🫀 Belief: We all have a potential respectively.<br>
-  👪 Family: I have a girl freind👧.
+  🫀 Belief   : We all have a potential respectively.<br>
+  👪 Family   : I have a girl freind👧.
 </div>
 
 
