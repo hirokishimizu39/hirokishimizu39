@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-🚀 Passionate full-stack engineer & coach project success by team.
+- 🚀 Passionate full-stack engineer & coach project success by team.
 
-💡 Front-end wizard with full-stack aspirations, turning complex challenges into user-friendly experiences.
+- 💡 Front-end wizard with full-stack aspirations, turning complex challenges into user-friendly experiences.
 
-🌍 Tech nomad in the making: Dreaming of solving global puzzles through code and creativity.
+- 🌍 Tech nomad in the making: Dreaming of solving global puzzles through code and creativity.
 
-📚 Off-hours: Reading📚, English🔤(as a 2nd language.), Training💪, 
+- 📚 Off-hours: Reading📚, English🔤(as a 2nd language.), Training💪, 
 
-🫀 Belief: We all have potential respectively.
+- 🫀 Belief: We all have potential respectively.
 
 </div>
 
