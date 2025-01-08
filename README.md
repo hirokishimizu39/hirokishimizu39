@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  Contact me<br>
+  Contact me
+  <br/>
   [![Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)
 </div>
 
