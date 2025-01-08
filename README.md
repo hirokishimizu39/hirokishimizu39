@@ -6,14 +6,11 @@
   </a>
 </div>
 
----
-
 <div>
   <h2>About Me</h2>
   <p>💼 <strong>Work</strong>: Associate Software Engineer</p>
   <p>🌍 <strong>Want to</strong>: Solve global challenges with code</p>
   <p>📚 <strong>Off-hours</strong>: Reading, Training, Immersive English (2nd language)</p>
-  <p>👪 <strong>Fan fuct</strong>: I have a lovely girlfriend 👧</p>
   <p>📩 <strong>Contact</strong>: 
     <a href="https://twitter.com/hirokishimizu39">
       <img src="https://img.shields.io/twitter/follow/hirokishimizu39?style=social" alt="Twitter Follow" />
