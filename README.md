@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&center=true&vCenter=true&width=600&height=100&lines=Hello+there+%F0%9F%91%8B;This+is+hirokishimizu39+" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&center=true&vCenter=true&width=600&height=100&lines=Hello+there+%F0%9F%91%8B;This+is+Hiroki+" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 🌍 Tech nomad in the making: Dreaming of solving global puzzles through code and creativity.
 
-⚽ Off-hours: Cheering for the Premier League's finest.
+📚 Off-hours: Reading📚, English🔤(as a 2nd language.), Training💪, 
 
-🍜 Foodie coder: Exploring culinary wonders when away from the keyboard.
+🫀 Belief: We all have potential respectively.
 
 </div>
 
