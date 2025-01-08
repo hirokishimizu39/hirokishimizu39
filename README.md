@@ -1,11 +1,11 @@
 ## Hi there 👋
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&center=true&vCenter=true&width=600&height=100&lines=This+is+Hiroki.;Hello+there+%F0%9F%91%8B" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&center=true&vCenter=true&width=600&height=100&lines=This+is+Hiroki.;Hello+World+%F0%9F%91%8B" alt="Typing SVG" />
   </a>
 </h1>
 
 
-<h2 align="center">About Me</h3>
+<h2 align="center">:star:About Me</h3>
 
 <div align="center">
   <p>🎯 <strong>Goal</strong>: Full-Stack Engineer</p>
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<h3 align="center">🌟:Want</h3>
+<h3 align="center">:star:Want</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
