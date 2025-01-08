@@ -11,7 +11,7 @@
 <div align="center">
   <p>🎯 <strong>Goal</strong>: Full-Stack Engineer</p>
   <p>💼 <strong>Work</strong>: Associate Software Engineer</p>
-  <p>🌍 <strong>Want to</strong>: Solve global challenges with code</p>
+  <p>🌍 <strong>Want to</strong>: Solve global challenges with code(FinTech,AI)</p>
   <p>📚 <strong>Off-hours</strong>: Reading, Training, Immersive English (2nd language)</p>
   <p>📩 <strong>Contact</strong>:
     <br>
