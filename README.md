@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <h3 align="center">:star:I'm Passionate Full-Stack Engineer, Unlock our potential:star:</h3>
 
 <div style="text-align: left; margin-left: auto; margin-right: auto; max-width: 700px;">
-  🚀 Passionate Full-Stack Engineer & Coach projects succeed by team.<br>
-  💡 Front-end wizard with full-stack aspirations, turning complex challenges into user-friendly experiences.<br>
+  🚀 I'm Passionate Full-Stack Engineer.<br>
+  💡 .<br>
   🌍 Tech nomad in the making: Dreaming of solving global puzzles through code and creativity.<br>
   📚 Off-hours: Reading📚, English🔤(as a 2nd language.), Training💪<br>
   🫀 Belief: We all have potential respectively.
@@ -33,14 +33,12 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  Contact me 
-  <br />
-  
+  Contact me<br>
   [![Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)
 </div>
 
 
-<h2 align="center">:dog:Languages & tools:dog:</h2>
+<h2 align="center">:dog:Languages & Tools</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -48,7 +46,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h3 align="center">:dog:Want :dog:</h3>
+<h3 align="center">:dog:Want</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
