@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 </h1>
 
 
-<h3 align="center">:star:Passionate full-stack engineer: We can do it !:star:</h3>
+<h3 align="center">:star:I'm Passionate Full-Stack Engineer, Unlock our potential:star:</h3>
 
-<div style="text-align: left; margin-left: auto; margin-right: auto; max-width: 600px;">
-  🚀 Passionate full-stack engineer & coach project success by team.<br>
+<div style="text-align: left; margin-left: auto; margin-right: auto; max-width: 700px;">
+  🚀 Passionate Full-Stack Engineer & Coach projects succeed by team.<br>
   💡 Front-end wizard with full-stack aspirations, turning complex challenges into user-friendly experiences.<br>
   🌍 Tech nomad in the making: Dreaming of solving global puzzles through code and creativity.<br>
   📚 Off-hours: Reading📚, English🔤(as a 2nd language.), Training💪<br>
