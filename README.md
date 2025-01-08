@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">:star:Passionate Full-Stack Engineer, Code smart, Dream big:star:</h3>
-<br>
-<div style="text-align: center; margin-left: auto; margin-right: auto; max-width: 700px;">
+
   🚀 Work     : I'm working as an Associate Software Engineer.<br>
   💡 Leaning  : I'm learning CS, <br>
   🌍 Want to  : I wolud like to solving global problems through code and creativity.<br>
@@ -31,7 +30,7 @@ Here are some ideas to get you started:
   🫀 Belief   : We all have a potential respectively.<br>
   👪 Family   : I have a girl freind👧.<br>
   📩 Contact  : [Twitter Follow](https://img.shields.io/twitter/follow/hirokishimizu39?style=social)](https://twitter.com/hirokishimizu39)
-</div>
+
 
 
 <h2 align="center">:dog:Languages & Tools</h2>
