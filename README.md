@@ -22,7 +22,7 @@
 ---
 
 <div>
-  <h3>Languages & Tools</h3>
+  <h2>Languages & Tools</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rails,ruby,py,php,html,css,postgres,mysql,linux,bash,docker,git,vscode,vim" alt="Languages and Tools" />
   </a>
@@ -43,9 +43,6 @@
   <h3>GitHub Stats</h3>
   <a href="https://github-readme-stats.vercel.app/api?username=hirokishimizu39&show_icons=true&theme=tokyonight&hide_border=true">
     <img src="https://github-readme-stats.vercel.app/api?username=hirokishimizu39&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="GitHub Stats" />
-  </a>  
-  <a href="https://streak-stats.demolab.com/?user=hirokishimizu39&theme=tokyonight">
-    <img src="https://streak-stats.demolab.com/?user=hirokishimizu39&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   </a>  
   <a href="https://github.com/hirokishimizu39/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirokishimizu39&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
