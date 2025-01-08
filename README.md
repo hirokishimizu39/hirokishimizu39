@@ -23,19 +23,14 @@ Here are some ideas to get you started:
 
 <h3 align="center">:star:Passionate full-stack engineer: We can do it !:star:</h3>
 
-<div align="center">
-
-- 🚀 Passionate full-stack engineer & coach project success by team.
-
-- 💡 Front-end wizard with full-stack aspirations, turning complex challenges into user-friendly experiences.
-
-- 🌍 Tech nomad in the making: Dreaming of solving global puzzles through code and creativity.
-
-- 📚 Off-hours: Reading📚, English🔤(as a 2nd language.), Training💪, 
-
-- 🫀 Belief: We all have potential respectively.
-
+<div style="text-align: left; margin-left: auto; margin-right: auto; max-width: 600px;">
+  🚀 Passionate full-stack engineer & coach project success by team.<br>
+  💡 Front-end wizard with full-stack aspirations, turning complex challenges into user-friendly experiences.<br>
+  🌍 Tech nomad in the making: Dreaming of solving global puzzles through code and creativity.<br>
+  📚 Off-hours: Reading📚, English🔤(as a 2nd language.), Training💪<br>
+  🫀 Belief: We all have potential respectively.
 </div>
+
 
 <div align="center">
   Contact me 
