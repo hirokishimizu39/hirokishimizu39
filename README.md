@@ -29,6 +29,8 @@
   </a>
 </p>
 
+<br>
+
 <h2 align="center">:books: Want:books:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -54,6 +56,8 @@
   </a>
 </div>
 
+<br>
+
 <h2 align="center">:medal_military: Certifications :medal_military:</h2>
 <p align="center">
   <strong>FE (IPA)</strong> | <strong>AWS SAA</strong> | <strong>TOEIC L&R 890</strong>
@@ -61,7 +65,7 @@
 <br>
 <br>
 
-<h2 align="center">:thinking: Thought Provoking :thinking:</h2>
+<h2 align="center">:thinking: Output Provoking :thinking:</h2>
 <p align="center">
   Picasso created over <strong>20,000 works of art</strong>,<br>
   Einstein wrote <strong>240 papers</strong>,<br>
