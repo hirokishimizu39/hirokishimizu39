@@ -9,11 +9,11 @@
 
 <h2 align="center">:star: About Me :star:</h2>
 <div align="center">
-  <p>🎯 <strong>Goal</strong>: Full-Stack Engineer</p>
-  <p>💼 <strong>Work</strong>: Associate Software Engineer</p>
-  <p>🌍 <strong>Want to</strong>: Solve global challenges with code(FinTech,AI)</p>
-  <p>📚 <strong>Off-hours</strong>: Reading, Training, Immersive English (2nd language)</p>
-  <p>📩 <strong>Contact</strong>:
+    <p>🎯 <strong>Goal:</strong> To solve global challenges through code, with a focus on financial inclusion via FinTech and AI.</p>
+    <p>💼 <strong>Work:</strong> Associate Software Engineer</p>
+    <p>📚 <strong>Off-hours:</strong> Reading, training, and immersive English practice (2nd language).</p>
+    <p>🌍 <strong>Aspiration:</strong> To broaden my horizons through reading, travel, and connecting with people worldwide. To continuously refine myself and make a meaningful global impact.</p>
+    <p>📩 <strong>Contact:</strong></p>
     <br>
     <a href="https://twitter.com/hirokishimizu39">
       <img src="https://img.shields.io/twitter/follow/hirokishimizu39?style=social" alt="Twitter Follow" />
