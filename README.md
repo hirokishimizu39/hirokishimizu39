@@ -25,7 +25,7 @@
 <h2 align="center">:books: Languages & Tools:books:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rails,ruby,py,django,php,html,css,mysql,postgres,linux,docker,aws,git,vscode,notion,figma" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rails,ruby,py,django,php,laravel,html,css,mysql,postgres,linux,docker,aws,git,vscode,notion,figma" alt="Languages and Tools" />
   </a>
 </p>
 
