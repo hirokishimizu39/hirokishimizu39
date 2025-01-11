@@ -10,8 +10,8 @@
 <h2 align="center">:star: About Me :star:</h2>
 <div align="center">
     <p>💼 <strong>Work:</strong> Associate Software Engineer</p>
-    <p>📚 <strong>Off-hours:</strong> Reading, training, and immersive English practice (2nd language).</p>
-    <p>🎯 <strong>Goal:</strong> To solve global challenges through code, with a focus on financial inclusion via FinTech and AI.</p>
+    <p>📚 <strong>Off-hours:</strong> Reading, training, and immersive English(2nd language).</p>
+    <p>🎯 <strong>Goal:</strong> To solve global challenges through code, with a focus on financial inclusion via FinTech & AI.</p>
     <p>🌍 <strong>Aspiration:</strong> To broaden my horizons through reading, travel, and connecting with people worldwide. To continuously refine myself and make a meaningful global impact.</p>
     <br>
     <a href="https://twitter.com/hirokishimizu39">
