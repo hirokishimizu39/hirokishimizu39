@@ -53,3 +53,12 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirokishimizu39&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 </div>
+
+<h2 align="center">:medal_military: Certifications :medal_military:</h2>
+<p align="center">
+  <strong>FE (IPA)</strong> | <strong>AWS SAA</strong> | <strong>TOEIC L&R 890</strong>
+</p>
+<br>
+<br>
+<br>
+<br>
