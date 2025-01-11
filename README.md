@@ -60,5 +60,18 @@
 </p>
 <br>
 <br>
-<br>
-<br>
+
+<h2 align="center">:thinking: Thought Provoking :thinking:</h2>
+<p align="center">
+  Picasso created over <strong>20,000 works of art</strong>,<br>
+  Einstein wrote <strong>240 papers</strong>,<br>
+  Bach composed a cantata every week,<br>
+  Edison filed more than <strong>1,000 patents</strong>,<br>
+  <br>
+  The fascinating part? Not all their outputs were masterpieces.<br>
+  Only a third of Mozart’s, Bach’s, and Beethoven’s compositions are widely performed today.<br>
+  Most of Einstein’s papers remain uncited.<br>
+</p>
+
+
+
