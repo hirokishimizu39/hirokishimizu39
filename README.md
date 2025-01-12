@@ -65,7 +65,7 @@
 <br>
 <br>
 
-<h2 align="center">:thinking: Output Provoking :thinking:</h2>
+<h2 align="center">💡 Output Provoking 💡</h2>
 <p align="center">
   Picasso created over <strong>20,000 works of art</strong>,<br>
   Einstein wrote <strong>240 papers</strong>,<br>
