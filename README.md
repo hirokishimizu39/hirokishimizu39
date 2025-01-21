@@ -25,7 +25,7 @@
 <h2 align="center">:books: Languages & Tools:books:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rails,ruby,py,django,php,laravel,html,css,mysql,postgres,linux,docker,aws,git,vscode,notion,figma,miro" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,rails,ruby,py,django,php,laravel,html,css,mysql,postgres,linux,docker,aws,git,cursor" alt="Languages and Tools" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 <h2 align="center">:books: Want:books:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,kubernetes,terraform,gcp,vim" alt="Learning Tools" />
+    <img src="https://skillicons.dev/icons?i=go,kubernetes,terraform,gcp" alt="Learning Tools" />
   </a>
 </p>
 
