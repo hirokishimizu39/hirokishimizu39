@@ -50,12 +50,6 @@
   </div>
 </div>
 
-<div align="center">
-  <a href="https://github.com/hirokishimizu39/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirokishimizu39&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
-
 <br>
 
 <h2 align="center">:medal_military: Certifications :medal_military:</h2>
