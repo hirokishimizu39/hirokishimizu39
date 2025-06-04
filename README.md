@@ -7,8 +7,8 @@
 
 <br>
 
-<h2 align="center">:star: About Me :star:</h2>
-<div align="center">
+<h2 align="left">:star: About Me :star:</h2>
+<div align="left">
     <p>💼 <strong>Work:</strong> Associate Software Engineer</p>
     <p>📚 <strong>Off-hours:</strong> Reading, training, and immersive English(2nd language).</p>
     <p>🎯 <strong>Goal:</strong> To address global challenges and empower individuals through code, with a focus on EdTech or HRTech or FinTech(Financial Inclusion)</p>
