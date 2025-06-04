@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World!😊
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&center=true&vCenter=true&width=600&height=100&lines=This+is+Hiroki.;Hello+World+%F0%9F%91%8B" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 
 <br>
 
-<h2 align="center">:books: Languages & Tools:books:</h2>
+<h2 align="center">:books: Languages & Tools（触ったことのあるもの）:books:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,rails,ruby,py,django,php,laravel,html,css,mysql,postgres,linux,docker,aws,git,cursor" alt="Languages and Tools" />
@@ -42,9 +42,6 @@
 
 <h2 align="center">:memo: Activities:memo:</h2>
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirokishimizu39&bg_color=000000&color=ffffff&line=36BCF7&point=ffffff&area=true&area_color=36BCF7&hide_border=true&custom_title=Hiroki's%20Contribution%20Graph&title_color=36BCF7" alt="GitHub Activity Graph" />
-  </a>
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=hirokishimizu39&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7&card_width=320" alt="GitHub Stats" />
   </div>
