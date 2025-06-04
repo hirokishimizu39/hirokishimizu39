@@ -11,11 +11,11 @@
 <div align="center">
     <p>💼 <strong>Work:</strong> Associate Software Engineer</p>
     <p>📚 <strong>Off-hours:</strong> Reading, training, and immersive English(2nd language).</p>
-    <p>🎯 <strong>Goal:</strong> To address global challenges and empower individuals through code, with a focus on advancing financial inclusion via FinTech & AI.</p>
+    <p>🎯 <strong>Goal:</strong> To address global challenges and empower individuals through code, with a focus on EdTech or HRTech or FinTech(Financial Inclusion)</p>
     <p>🌍 <strong>Aspiration:</strong> To broaden my horizons through reading, travel, and connecting with people worldwide. To continuously refine myself and make a meaningful global impact.</p>
     <br>
     <a href="https://twitter.com/hirokishimizu39">
-      <img src="https://img.shields.io/twitter/follow/hirokishimizu39?style=social" alt="Twitter Follow" />
+      <img src="https://img.shields.io/youtube/follow/hirokishimizu39?style=social" alt="Twitter Follow" />
     </a>
   </p>
 </div>
