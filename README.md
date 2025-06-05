@@ -21,12 +21,6 @@
 🌍 <strong>Aspiration:</strong>
 - Broaden my horizons through Reading, Traveling, and Connecting With People Worldwide.
 
-<br>
-<a href="https://twitter.com/hirokishimizu39">
-  <img src="https://img.shields.io/twitter/follow/hirokishimizu39?style=social" alt="Twitter Follow" />
-</a>
-
-
 
 <br>
 
