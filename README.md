@@ -18,7 +18,7 @@
 
 - 📖 Reading
 - 🏋️‍♂️ Workout
-- 🗣️ Immersive English(2nd Language)
+- 🗣️ English(2nd Language)
 
 ### 🎯 **Goal**
 
@@ -28,7 +28,7 @@
 ### 🌍 **Aspiration**
 
 - See the world. Share the world.
-- Lifelong mission to **Read**, **Travel**, and **Connect** with people across cultures.
+- **Read**, **Travel**, and **Connect** with people 🌏.
 
 
 <br>
@@ -36,7 +36,7 @@
 # I can ...
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,py,django,mysql,postgres,linux,docker,aws,git" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,py,django,php,mysql,postgres,linux,docker,aws,git" alt="Languages and Tools" />
   </a>
 </p>
 
