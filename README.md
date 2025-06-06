@@ -66,7 +66,6 @@
 - TOEIC L&R 890
 
 <br>
-<br>
 
 # We can do it!!
 - Picasso created over <strong>20,000 works of art</strong>
