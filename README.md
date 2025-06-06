@@ -1,31 +1,39 @@
-## Hello World!😊
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&center=true&vCenter=true&width=600&height=100&lines=This+is+Hiroki.;Hello+World+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</h1>
+## Hello World!! 😊
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=800&center=true&vCenter=true&width=600&height=100&lines=This+is+Hiroki.;Hello,+World+%F0%9F%91%8B" alt="Typing SVG" />
+</a>
+
+---
 
 <br>
 
-<h2 align="center">:star: About Me :star:</h2>
 
-💼 <strong>Work:</strong>
-- Associate Software Engineer
-  
-📚 <strong>Off-hours:</strong>
-- Reading, Work-Out, Immersive English(2nd language).
+### 💼 **Work**
 
-🎯 <strong>Goal:</strong>
-- Addressing Global Challenges and Empowering Individuals Through Code(EdTech or HRTech or FinTech(Financial Inclusion))
+- **Associate Software Engineer**
 
-🌍 <strong>Aspiration:</strong>
-- Broaden my horizons through Reading, Traveling, and Connecting With People Worldwide.
+### 📚 **Off-Hours**
+
+- 📖 Reading
+- 🏋️‍♂️ Workout
+- 🗣️ Immersive English Practice
+
+### 🎯 **Goal**
+
+- Unlocking human potential.
+- Empowering individuals through **code**(**EdTech**, **HRTech**, or **FinTech**(financial inclusion**))
+
+### 🌍 **Aspiration**
+
+- "See the world. Show the world."
+- Lifelong mission to **read**, **travel**, and **connect** with people across cultures.
 
 
 <br>
 
-<h2 align="center">:books: Languages & Tools（触ったことのあるもの）:books:</h2>
-<p align="center">
+# I'm learning ...
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,rails,ruby,py,django,php,laravel,html,css,mysql,postgres,linux,docker,aws,git,cursor" alt="Languages and Tools" />
   </a>
@@ -33,8 +41,8 @@
 
 <br>
 
-<h2 align="center">:books: Want:books:</h2>
-<p align="center">
+# I wanna ... 
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,kubernetes,terraform,gcp" alt="Learning Tools" />
   </a>
@@ -42,8 +50,8 @@
 
 <br>
 
-<h2 align="center">:memo: Activities:memo:</h2>
-<div align="center">
+# Committing ... 
+<div>
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=hirokishimizu39&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7&card_width=320" alt="GitHub Stats" />
   </div>
@@ -51,24 +59,22 @@
 
 <br>
 
-<h2 align="center">:medal_military: Certifications :medal_military:</h2>
-<p align="center">
-  <strong>FE (IPA)</strong> | <strong>AWS SAA</strong> | <strong>TOEIC L&R 890</strong>
-</p>
+# Certifications ...
+- FE (IPA)
+- AWS SAA
+- TOEIC L&R 890
+
 <br>
 <br>
 
-<h2 align="center">💡 Output Provoking 💡</h2>
-<p align="center">
-  Picasso created over <strong>20,000 works of art</strong>,<br>
-  Einstein wrote <strong>240 papers</strong>,<br>
-  Bach composed a cantata every week,<br>
-  Edison filed more than <strong>1,000 patents</strong>,<br>
-  <br>
-  The fascinating part? Not all their outputs were masterpieces.<br>
-  Only a third of Mozart’s, Bach’s, and Beethoven’s compositions are widely performed today.<br>
-  Most of Einstein’s papers remain uncited.<br>
-</p>
+# We can do it!!
+- Picasso created over <strong>20,000 works of art</strong>
+- Einstein wrote <strong>240 papers</strong>
+- Bach composed a cantata every week
+- Edison filed more than <strong>1,000 patents</strong>
 
-
-
+Only a third of Mozart’s, Bach’s, and Beethoven’s compositions are widely performed today.
+<br>
+Most of Einstein’s papers remain uncited.
+<br>
+So ...,  If we believe in ourselves, we can act. If we act, we can achieve it!
