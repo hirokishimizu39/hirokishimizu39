@@ -8,6 +8,7 @@
 
 <br>
 
+# My ...
 
 ### 💼 **Work**
 
@@ -32,10 +33,10 @@
 
 <br>
 
-# I'm learning ...
+# I can ...
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,rails,ruby,py,django,php,laravel,html,css,mysql,postgres,linux,docker,aws,git,cursor" alt="Languages and Tools" />
+    <img src="https://skillicons.dev/icons?i=java,js,ts,react,nextjs,nodejs,py,django,mysql,postgres,linux,docker,aws,git" alt="Languages and Tools" />
   </a>
 </p>
 
