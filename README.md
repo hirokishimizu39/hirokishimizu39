@@ -17,17 +17,17 @@
 
 - 📖 Reading
 - 🏋️‍♂️ Workout
-- 🗣️ Immersive English Practice
+- 🗣️ Immersive English(2nd Language)
 
 ### 🎯 **Goal**
 
 - Unlocking human potential.
-- Empowering individuals through **code**(**EdTech**, **HRTech**, or **FinTech**(financial inclusion**))
+- Empowering individuals through **code**(**EdTech**, **HRTech**, or **FinTech**(**financial inclusion**))
 
 ### 🌍 **Aspiration**
 
-- "See the world. Show the world."
-- Lifelong mission to **read**, **travel**, and **connect** with people across cultures.
+- See the world. Share the world.
+- Lifelong mission to **Read**, **Travel**, and **Connect** with people across cultures.
 
 
 <br>
