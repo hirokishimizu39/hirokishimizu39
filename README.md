@@ -85,4 +85,4 @@ So ...,  If we believe in ourselves, we can act. If we act, we can achieve it!
 - [**TypeScript**](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
 - [Django(Python)でのRESTful **API 開発**](https://www.django-rest-framework.org/api-guide/requests/)
 - [Docker](https://docs.docker.jp/get-started/overview.html#)
-- AWS([Fargate for ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html)
+- AWS([Fargate for ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html))
