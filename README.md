@@ -10,18 +10,18 @@ I just want to make the world a better place!
 
 ## My ...
 
-### 📚 **Off-Hours**
+📚 **Off-Hours**
 
 - 📖 Reading
 - 🏋️‍♂️ Workout
 - 🗣️ English(2nd Language)
 
-### 🎯 **Goal**
+🎯 **Goal**
 
 - Unlocking human potential.
 - Empowering individuals through **code**(**EdTech**, **HRTech**, or **FinTech**(**financial inclusion**))
 
-### 🌍 **Aspiration**
+🌍 **Aspiration**
 
 - See the world. Share the world.
 - **Read**, **Travel**, and **Connect** with people 🌏.
@@ -55,7 +55,7 @@ I just want to make the world a better place!
      <img src="https://img.shields.io/badge/-nodejs-%23F7DF1C?style=flat-square&logo=node.js&labelColor=white&color=green"  alt="Node.js badge" />
   </a>
 
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
+  <a href="https://docs.python.org/3/reference/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
   </a>
   
