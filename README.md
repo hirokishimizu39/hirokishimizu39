@@ -78,3 +78,11 @@ Only a third of Mozart’s, Bach’s, and Beethoven’s compositions are widely 
 Most of Einstein’s papers remain uncited.
 <br>
 So ...,  If we believe in ourselves, we can act. If we act, we can achieve it!
+
+# For me ...
+- [Java](https://docs.oracle.com/en/java/javase/23/)
+- [**React**](https://developer.mozilla.org/ja/docs/Learn_web_development/Core/Frameworks_libraries/React_getting_started)
+- [**TypeScript**](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+- [Django(Python)でのRESTful **API 開発**](https://www.django-rest-framework.org/api-guide/requests/)
+- [Docker](https://docs.docker.jp/get-started/overview.html#)
+- AWS([Fargate for ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/AWS_Fargate.html)
