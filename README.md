@@ -116,8 +116,8 @@ So ...,  If we believe in ourselves, we can act. If we act, we can achieve it!
 
 ---
 
-I read later ...
-- [Java](https://docs.oracle.com/en/java/javase/23/)
-
 My Issues ...
 - [Issue](https://github.com/hirokishimizu39/hirokishimizu39/issues)
+
+
+`BUSHIDO`
