@@ -43,21 +43,26 @@ I just want to make the world a better place!
      <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C"  alt="JavaScript badge" />
   </a>
   
+  <a href="https://golang.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go badge" />
+  </a>
+  
   <a href="https://react.dev/reference/react" target="_blank" rel="noopener noreferrer">
      <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" alt="React badge" />
   </a>
+
+  <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js badge" />
+  </a>  
   
   <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer">
      <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript badge" />
-  </a>
-  
-  <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/-nodejs-%23F7DF1C?style=flat-square&logo=node.js&labelColor=white&color=green"  alt="Node.js badge" />
   </a>
 
   <a href="https://docs.python.org/3/reference/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
   </a>
+  
   
   <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS badge" />
@@ -68,9 +73,6 @@ I just want to make the world a better place!
 <br>
 
 ## I wanna ... 
-<a href="https://golang.org" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go badge" />
-</a>
 
 <a href="https://kubernetes.io" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes badge" />
