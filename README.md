@@ -4,7 +4,7 @@
 </h1>
 
 Hello, world!
-My name is Hiroki, a passionate learner who's becoming a web developer.
+My name is Hiroki, a passionate learner.
 I just want to make the world a better place!
 <br>
 
