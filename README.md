@@ -74,10 +74,6 @@ I just want to make the world a better place!
 
 ## I wanna ... 
 
-<a href="https://kubernetes.io" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes badge" />
-</a>
-
 <a href="https://www.terraform.io" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform badge" />
 </a>
