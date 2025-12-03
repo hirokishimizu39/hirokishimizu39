@@ -116,6 +116,8 @@ So ...,  If we believe in ourselves, we can act. If we act, we can achieve it!
 
 My Issues ...
 - [Issue](https://github.com/hirokishimizu39/hirokishimizu39/issues)
+- [Learning Issue](https://github.com/hirokishimizu39/persistent-differentiation/issues)
+- [NeetCode Issue](https://github.com/hirokishimizu39/neetcode-practice)
 
 
 `BUSHIDO`
