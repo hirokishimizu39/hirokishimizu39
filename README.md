@@ -13,8 +13,8 @@ I just want to make the world a better place!
 📚 **Off-Hours**
 
 - 📖 Reading
-- 🏋️‍♂️ Workout
-- 🗣️ English(2nd Language)
+- 🏋️‍♂️ Workout(SQ,BP,DL,Pranche,MussleUp)
+- 🗣️ English,French,Spanish(on Duolingo!!)
 
 🎯 **Goal**
 
