@@ -72,32 +72,13 @@ I just want to make the world a better place!
 
 <br>
 
-## I wanna ... 
-
-<a href="https://www.terraform.io" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" alt="Terraform badge" />
-</a>
-
-<a href="https://cloud.google.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud badge" />
-</a>
-
-<br>
-
-## Committing ... 
-<div>
-  <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hirokishimizu39&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff&ring_color=36BCF7&card_width=320" alt="GitHub Stats" />
-  </div>
-</div>
-
-<br>
-
 ## Certifications ...
-- 普通自動車第一種運転免許（AT限定）
 - FE (IPA)
 - AWS SAA
 - TOEIC L&R 890
+- 普通自動車第一種運転免許（AT限定）
+- 子ども絵画コンクール金賞（ありさんとブドウのお家）
+- 書道特待生（笹波会）
 
 <br>
 
