@@ -81,6 +81,7 @@ I just want to make the world a better place!
 - 書道特待生（笹波会）
 - 小学ソフトボール地域の大会で1位（4番,ピッチャー,キャプテン）
 - 中学サッカー堺市総体3位（ベンチ出場）
+not certifications but wanna write down
 - 高校硬式テニス（所属校の選抜になりましたが予選で敗北）
 - 大学アルティメット（2025年日本1のチームで4年間部活をしましたが、最後の大会はコロナにより欠場）
 
