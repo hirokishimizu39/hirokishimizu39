@@ -94,6 +94,7 @@ I just want to make the world a better place!
 <br>
 
 ## Certifications ...
+- 普通自動車第一種運転免許（AT限定）
 - FE (IPA)
 - AWS SAA
 - TOEIC L&R 890
