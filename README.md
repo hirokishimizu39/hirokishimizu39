@@ -76,7 +76,7 @@ I just want to make the world a better place!
 - FE (IPA)
 - AWS SAA
 - TOEIC L&R 890
-- 普通自動車第一種運転免許（AT限定）
+- 自動車免許（AT限定）
 - 子ども絵画コンクール金賞（ありさんとブドウのお家）
 - 書道特待生（笹波会）
 - 小学ソフトボール地域の大会で1位（4番,ピッチャー,キャプテン）
