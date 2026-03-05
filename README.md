@@ -86,7 +86,7 @@ I just want to make the world a better place!
 
 not certifications but wanna write down
 - 高校硬式テニス（所属校の選抜になりましたが予選で敗北）
-- 大学アルティメット（2015年日本1のチームで4年間部活をしましたが、最後の大会はコロナにより欠場）
+- 大学アルティメット（2015年日本1のチームで4年間部活をしましたが、最後の大会はコロナにより大会不参加）
 
 <br>
 
