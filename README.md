@@ -103,6 +103,8 @@ Most of Einstein’s papers remain uncited.
 So ...,  If we believe in ourselves, we can act. If we act, we can achieve it!
 
 ---
+Co-Work with AI ...
+- [AIと共に歩んだ道のり](https://github.com/AnthroLoop/MyJourneyWithAI/blob/main/README.md)
 
 My Issues ...
 - [Issue](https://github.com/hirokishimizu39/hirokishimizu39/issues)
