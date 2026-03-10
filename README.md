@@ -73,7 +73,7 @@ I just want to make the world a better place!
 <br>
 
 ## Certifications ...
-- FE (IPA)
+- 基本情報技術者試験 (IPA)
 - AWS SAA
 - TOEIC L&R 890
 - 自動車免許（AT限定）
@@ -84,7 +84,7 @@ I just want to make the world a better place!
 
 <br>
 
-not certifications but wanna write down
+not certifications but write down😃
 - 高校硬式テニス（所属校の選抜になりましたが予選で敗北）
 - 大学アルティメット（2015年日本1のチームで4年間部活をしましたが、最後の大会はコロナにより大会不参加）
 
