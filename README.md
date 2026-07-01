@@ -113,19 +113,20 @@ Most of Einstein’s papers remain uncited.
 <br>
 So ...,  If we believe in ourselves, we can act. If we act, we can achieve it!
 
----
+--- 
 
 My Issues ...
 - [Issue](https://github.com/hirokishimizu39/hirokishimizu39/issues)
 - [Learning Issue](https://github.com/hirokishimizu39/persistent-differentiation/issues)
 - [NeetCode Issue](https://github.com/hirokishimizu39/neetcode-practice)
 
-
+--- 
 
 
 すべての人が自分らしく生き生きと生きている世界をみたいです。
 - この世界はもっと自由でもっと広い
 - すべての人に可能性がある
+  
 この2つは、生まれた頃から変わることのない僕の信念です。
 
 人間が作り上げてきた、国・法律・制度・会社・規範は確かに素晴らしい。
@@ -143,6 +144,3 @@ My Issues ...
 ジャーナルで自分に向きあう日々を始めませんか？
 
 - [Journal with your AI Coach.](https://journal.addness.com)
-
-
-`BUSHIDO`
