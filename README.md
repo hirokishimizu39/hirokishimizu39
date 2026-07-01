@@ -6,6 +6,8 @@
 Hello, world!
 My name is Hiroki, a passionate learner.
 I just want to make the world a better place!
+- I have one solution. Please check it out this prodact! You can journal wit your AI Coach.
+  - https://journal.addness.com
 <br>
 
 ## My ...
