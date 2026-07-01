@@ -4,9 +4,9 @@
 </h1>
 
 Hello, world!
-My name is Hiroki, a passionate learner.
-I just want to make the world a better place!
-- I have a solution. Please check it out this product!
+- My name is Hiroki, a passionate learner.
+- I just want to make the world a better place!
+- I have a solution. Please check it out this product in the blow!
 > What's your dream?
 >
 > Who do you want to become?
@@ -29,8 +29,8 @@ I just want to make the world a better place!
 
 🎯 **Goal**
 
-- Unlocking human potential.
-- Empowering individuals through **code**(**EdTech**, **HRTech**, or **FinTech**(**financial inclusion**))
+- Unlocking the Human Potential.
+- Empowering individuals through **Tech and Coaching**(**EdTech**, **HRTech**, or **FinTech**(**financial inclusion**))
 
 🌍 **Aspiration**
 
@@ -114,13 +114,35 @@ Most of Einstein’s papers remain uncited.
 So ...,  If we believe in ourselves, we can act. If we act, we can achieve it!
 
 ---
-Co-Work with AI ...
-- [AIと共に歩んだ道のり](https://github.com/AnthroLoop/MyJourneyWithAI/blob/main/README.md)
 
 My Issues ...
 - [Issue](https://github.com/hirokishimizu39/hirokishimizu39/issues)
 - [Learning Issue](https://github.com/hirokishimizu39/persistent-differentiation/issues)
 - [NeetCode Issue](https://github.com/hirokishimizu39/neetcode-practice)
+
+
+
+
+すべての人が自分らしく生き生きと生きている世界をみたいです。
+- この世界はもっと自由でもっと広い
+- すべての人に可能性がある
+この2つは、生まれた頃から変わることのない僕の信念です。
+
+人間が作り上げてきた、国・法律・制度・会社・規範は確かに素晴らしい。
+だけど、それによっていつの間にか縛られてはいないだろうか。
+カゴの中の鳥になってはいないだろうか。塔の上のラプンツェルになってはいないだろうか。頭の上からニンジンぶら下げられて、それをくる日もくる日も追いかけつづける馬になってはいないだろうか。
+
+他人に奪われまくっている可処分時間を自分に取り戻しませんか。
+
+自分が本当は何をしたいのか。どんな人生を歩みたいのか。どんな夢をもっているのか。そのために今日1歩進むことができたか？
+今日という1日は目標に対して何点の1日だったか？
+それを踏まえて、明日はどんな1日にしたいか？
+
+自分のために時間を使いませんか。その後に他の誰かのためになることができたら嬉しくないですか？
+
+ジャーナルで自分に向きあう日々を始めませんか？
+
+- [Journal with your AI Coach.](https://journal.addness.com)
 
 
 `BUSHIDO`
