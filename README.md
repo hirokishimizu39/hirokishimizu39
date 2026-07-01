@@ -7,7 +7,7 @@ Hello, world! 😊
 
 - My name is Hiroki, a passionate learner.
 - I just want to make the world a better place!
-- I have a solution. Please check it out this product in the blow!
+- I have a solution. Please check it out this product in the below!
 > What's your dream?
 >
 > Who do you want to become?
