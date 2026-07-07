@@ -20,6 +20,9 @@ Hello, world! 😊
   - [Journal with your AI Coach.](https://journal.addness.com)
 <br>
 
+一番下に、このプロダクトで実現したい世界について書いています！
+
+
 ## My ...
 
 📚 **Off-Hours**
