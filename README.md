@@ -17,7 +17,7 @@ Hello, world! 😊
 > Journal with your AI coach.
 >
 > Every day.
-  - [夢が叶うJournal（Journal with your AI Coach）](https://journal.addness.com) 
+  - [夢が叶うJournal - Journal with your AI Coach](https://journal.addness.com) 
 
 
 ## My ...
