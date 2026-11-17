@@ -93,6 +93,6 @@ AIの力を最大限に引き出し、あらゆる人にその恩恵を行き渡
 
 日々の実践は、デイリーレポートに記録しています。
 
-[デイリーレポート（hirokishimizu39/daily-report）](https://github.com/hirokishimizu39/daily_report)
+[デイリーレポート](https://github.com/hirokishimizu39/daily_report)
 
 <sub>Guiding Principles と Values は、大尊敬する五常・アンド・カンパニー株式会社の [Guiding Principles and Values](https://gojo.co/guiding-principles-and-values-jp) を大部分拝借し、自分仕様に改訂したものです。</sub>
