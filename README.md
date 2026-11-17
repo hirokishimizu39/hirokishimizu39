@@ -1,125 +1,102 @@
-<h1 align="center">
-  Hi there I'm Hiro!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
-</h1>
+<div align="center">
 
-Hello, world! 😊
+# 清水 宏樹
 
-- My name is Hiroki, a passionate learner.
-- I just want to make the world a better place!
-- I have a solution. Please check it out this product in the below!
-> What's your dream?
->
-> Who do you want to become?
->
-> Why not?
->
-> Journal with your AI coach.
->
-> Every day.
-  - [夢が叶うJournal - Journal with your AI Coach](https://journal.addness.com) 
-
-
-## My ...
-
-📚 **Off-Hours**
-
-- 📖 Reading
-- 🏋️‍♂️ Workout(SQ,BP,DL,Pranche,MussleUp)
-- 🗣️ English,French,Spanish(on Duolingo!!)
-
-🎯 **Goal**
-
-- Unlocking Human Potential.
-- Empowering individuals through **Tech and Coaching**(**EdTech**, **HRTech**, or **FinTech**(**financial inclusion**))
-
-🌍 **Aspiration**
-
-- See the world. Share the world.
-- **Read**, **Travel**, and **Connect** with people 🌏.
-
-
-<br>
-
-## I'm dedicating ...
-<div id="badges" align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
-   <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML badge" />
-  </a>
-
-  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS badge" />
-  </a>
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C"  alt="JavaScript badge" />
-  </a>
-  
-  <a href="https://golang.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go badge" />
-  </a>
-  
-  <a href="https://react.dev/reference/react" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" alt="React badge" />
-  </a>
-
-  <a href="https://nextjs.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js badge" />
-  </a>  
-  
-  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript badge" />
-  </a>
-
-  <a href="https://docs.python.org/3/reference/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python badge" />
-  </a>
-  
-  
-  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS badge" />
-  </a>
+**人とAIの可能性を探求しています**
 
 </div>
 
-<br>
+---
 
-## Certifications ...
-- 基本情報技術者試験 (IPA)
-- AWS SAA
-- TOEIC L&R 890
-- 自動車免許（AT限定）
-- 子ども絵画コンクール金賞（ありさんとブドウのお家）
-- 書道特待生（笹波会）
-- 小学ソフトボール地域の大会で1位（4番,ピッチャー,キャプテン）
-- 中学サッカー堺市総体3位（ベンチ出場）
+## Mission
 
-<br>
+AIの力を最大限に引き出し、あらゆる人にその恩恵を行き渡らせる。
 
-not certifications but write down😃
-- 高校硬式テニス（所属校の選抜になりましたが予選で敗北）
-- 大学アルティメット（2015年日本1のチームで4年間部活をしましたが、最後の大会はコロナにより大会不参加）
+---
 
-<br>
+## Guiding Principles
 
-## We can do it!!
-- Picasso created over <strong>20,000 works of art</strong>
-- Einstein wrote <strong>240 papers</strong>
-- Bach composed a cantata every week
-- Edison filed more than <strong>1,000 patents</strong>
+行動規範であり、人生の憲法として置いています。
 
-Only a third of Mozart’s, Bach’s, and Beethoven’s compositions are widely performed today.
-<br>
-Most of Einstein’s papers remain uncited.
-<br>
-So ...,  If we believe in ourselves, we can act. If we act, we can achieve it!
+### 1. 真：正しく思考し行動する
 
---- 
+- **1–1　構造化し、観察し、実行する** — 課題設定→目的と前提条件定義→思考枠組み構築→情報収集→論理思考の繰り返し→実行
+- **1–2　エゴを乗りこなす** — Guiding Principlesと事実と論理に依拠し、エゴやバイアスや個人的感情を御する
+- **1–3　オープンである** — 皆が恐れずに反論できるようにし、意思決定過程を透明にし、本物になる
 
-My Issues ...
-- [Issue](https://github.com/hirokishimizu39/hirokishimizu39/issues)
-- [Learning Issue](https://github.com/hirokishimizu39/persistent-differentiation/issues)
-- [NeetCode Issue](https://github.com/hirokishimizu39/neetcode-practice)
+### 2. 善：顧客、友人、家族に顔向けできない仕事はしない
 
---- 
+- **2–1　志ある利益** — 顧客によりよく奉仕し、かつ長期利益を最大化する最適解を探し続ける
+- **2–2　プロフェッショナリズムとウェルビーイング** — 一生懸命働きながらも、仕事を楽しみ、個人の生活や家族を犠牲にしない
 
+### 3. 美：最高品質・最高効率・シンプルさを追求しつづける
+
+- **3–1　一流の品質** — 世界最高水準のプロセスと成果物をつくることに妥協しない
+- **3–2　迅速かつ賢く** — 先延ばしにしない。最も効率的な解決策を考え続ける
+- **3–3　レス・イズ・モア** — サービスとプロセスはシンプルにする。より少ない色、文字、時間でより多くを実現する
+
+### 4. 首尾一貫：信じること、話すこと、為すことを一致させる
+
+- **4–1　謙虚に前進する** — フィードバックや過ちを成長と学びの糧にして、よりよい行動をすることに責任をもつ
+- **4–2　このプリンシプルズをひろめる** — 全関係者にいつもGuiding Principlesを語り、熱烈な支持者を増やしつづける
+- **4–3　誠実さは称賛にまさる** — 信頼と評判は首尾一貫した行動で築く。メディア掲載や受賞、団体所属は副産物でしかない
+
+---
+
+## Values
+
+### 仁
+
+**顧客の側に立つ** — 顧客視点で物事を見ることに力を尽くし、サービスを通じて顧客の目的達成を支援する。すべての人に可能性がある。相手を信じ、待ち、託し、任せる。
+
+### 義
+
+**原理原則に従う** — 例外なく、Guiding Principlesに従って行動する。在り方を磨く。コンフォートゾーンに気づき・抜け出す。
+
+### 礼
+
+**傾聴する** — 謙虚で素直な心を持ち、他者の声に耳を傾け尊重する。
+
+### 知
+
+**学び、考え、共有する** — 常識を疑い、現実解を考え、知識を他者と共有する。この世界は、もっと自由でもっと広い。絶えず気づき・学ぶ。
+
+### 信
+
+**本物であれ** — 取り繕わず真実を語ることで誠実さを示し、信頼を築く。本音で生きる。
+
+---
+
+## 提供価値
+
+提供するのは、AI活用とAIプロダクトの成否を分ける「判断」と、その設計・実行です。
+
+### Can — 今、提供できるもの
+
+- AI活用・AIプロダクトの企画・課題設定から、開発・リリース・運用・改善までを一気通貫で担える
+- LLMの品質評価の仕組みを設計し、運用できる（評価軸とルーブリックの設計、ゴールデンセット、回帰評価）
+- モデル選定とコスト設計ができる（品質を担保しながら、APIコストと性能のトレードオフを数字で判断する）
+- 本番の障害設計と運用ができる（障害が起きても、サービスを止めない設計）
+
+### Will
+
+- 組織のAI品質を担保する（評価の型を、複数のプロダクトと組織へ横に展開する）
+- より大きな事業の設計判断を担う（事業の採算と技術のトレードオフの判断そのもの）
+
+---
+
+## インパクト
+
+インパクトは、これから積み上げていくものです。
+
+これから、担ったプロダクトの成果、AIの恩恵が届いた人々の広がり、そして市場からの評価を、1つずつ実績としてここに刻んでいきます。
+
+---
+
+## あゆみ
+
+日々の実践は、デイリーレポートに記録しています。
+
+[デイリーレポート（hirokishimizu39/daily-report）](https://github.com/hirokishimizu39/daily-report)
+
+<sub>Guiding Principles と Values は、大尊敬する五常・アンド・カンパニー株式会社の [Guiding Principles and Values](https://gojo.co/guiding-principles-and-values-jp) を大部分拝借し、自分仕様に改訂したものです。</sub>
